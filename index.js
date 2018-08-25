@@ -1,1 +1,3 @@
-function shout(strong) {}
+function shout(strong) {
+  return string
+}
